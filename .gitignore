@@ -1,0 +1,11 @@
+# データファイル（デモ用にコミットするため、コメントアウト）
+# data/
+
+# エディタ関連ファイル
+.vscode/
+.idea/
+*.sublime-*
+
+# OS関連ファイル
+.DS_Store
+Thumbs.db
